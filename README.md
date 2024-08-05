@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Madhav Ganesan</h1>
-<h3 align="center">Full stack developer</h3>
+<h3 align="center">Web developer</h3>
 <img align="right" alt="Coder" width="400" src="https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=740&t=st=1678155654~exp=1678156254~hmac=ec468f73910a4bc4723fe059a1825132cbf75e71461ee3c44aa196543bf28c49">
 
-- 💬 Ask me about **django,react,nodejs,expressjs,mongodb,**
+- 💬 Ask me about **reactjs,nodejs,expressjs,mongodb,nextjs**
 
 - 📫 How to reach me **madhavganesan95@gmail.com**
 
